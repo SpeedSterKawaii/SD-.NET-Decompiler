@@ -18,4 +18,4 @@ MyNetApplication.exe > MessageBox.Show("My application!");
 - Compiles up the Csharp code
 
 # About?
-This powerful *decompiler* can `decompile` up to `1GB` of executable size. It *decompiles* in less then *5* minutes. Developed by pro developers to give *you* an *epic* experience. You lost your file? And can't get the code *back*? Not a **problem**! Download SD NET for FREE and **get all of your code back!**
+This powerful *decompiler* can `decompile` up to `1GB` of executable size. It *decompiles* in less then *5* minutes. Developed by pro developers to give *you* an *epic* experience. You lost your file? And can't get the code *back*? Not a **problem**! Download SD NET for FREE and **get all of your code back!** *No in-app purchases, no need to worry.*
