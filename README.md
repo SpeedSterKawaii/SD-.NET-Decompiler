@@ -43,3 +43,4 @@ This powerful *decompiler* can `decompile` up to `1GB` of executable size. It *d
 `Review your code in a C# code editing software.`
 
 # License and Policy?
+We do *not* accept software reverse engineering or decompiling SD-D or any of it's elements. You will be blacklisted. You may not sell fake copies or remakes or for free as well. If you do, you will be perm banned until further notice. We like to keep it clean, please do not do any tampering with the *software*.
